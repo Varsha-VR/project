@@ -1,9 +1,12 @@
 void main()
 {
 int sum, sub;
+int mul;
 int a=10, b=20;
 sum=a+b;
 sub=a-b;
+mul=a*b;
 printf("Sum is %d", sum);
 printf("Sub is %d", sub);
+printf("Mul is %d", mul);
 }
